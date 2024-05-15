@@ -11,7 +11,7 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
+  ['5511913704563', '👑 Mystic - Creador 👑', true],
   ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
   ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
   ['5218442286089', '💫 Mystic - Collaborator 4 💫', true],
@@ -36,7 +36,7 @@ global.owner = [
   ['595992611272']
 ];
 
-global.suittag = ['5219993404349'];
+global.suittag = ['5511913704563'];
 global.prems = ['51995386439'];
 
 global.packname = 'Sticker';
